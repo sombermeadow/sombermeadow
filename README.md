@@ -1,1 +1,1 @@
-![Profile view counter](https://komarev.com/ghpvc/?username=sombermeadow&color=teal)
+![Profile view counter](https://komarev.com/ghpvc/?username=sombermeadow&color=red)
